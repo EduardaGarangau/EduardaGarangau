@@ -14,12 +14,12 @@
 
 ### Technologies
 
-[![image]](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-[![image]](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+[![image]](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)]
+[![image]](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)]
 
 ### Others
-[![image]](https://img.shields.io/badge/-git-000?&logo=git)
-[![image]](https://img.shields.io/badge/-json-000?&logo=json)
+[![image]](https://img.shields.io/badge/-git-000?&logo=git)]
+[![image]](https://img.shields.io/badge/-json-000?&logo=json)] 
 
 ### Contact me any time 🤝
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-garangau-b69197177/)
