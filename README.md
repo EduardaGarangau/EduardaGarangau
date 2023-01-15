@@ -25,5 +25,5 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardagarangau)
 [![image](https://img.shields.io/badge/WhatsApp-32a83e?style=for-the-badge&logo=Whatsapp&logoColor=whitehite)](https://wa.me/5541996717016?text=Ol%C3%A1%20Eduarda!)
 
-[![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaGarangau)](https://github.com/EduardaGarangau/github-readme-stats)
+[![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaGarangau&show_icons=true&theme=tokyonight)](https://github.com/EduardaGarangau/github-readme-stats)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
