@@ -26,5 +26,5 @@
 [![image](https://img.shields.io/badge/WhatsApp-32a83e?style=for-the-badge&logo=Whatsapp&logoColor=whitehite)](https://wa.me/5541996717016?text=Ol%C3%A1%20Eduarda!)
 
 [![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaGarangau&show_icons=true&theme=transparent)](https://github.com/EduardaGarangau/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaGarangau&layout=demo)](https://github.com/EduardaGarangau/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaGarangau&layout=compact)](https://github.com/EduardaGarangau/github-readme-stats)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
