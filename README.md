@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter and Clean Architecture
 - 👯 I’m looking to collaborate on any Flutter projects
-- 🎓 Analysis and Systems Development
+- 🎓 Analysis and Systems Development - University Positivo 
 - ⚡ Fun fact: I'm obsessed with the film E.T. The Extraterrestrial and my pets are everything to me!
 
 ### Languages
