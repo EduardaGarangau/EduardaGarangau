@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Eduarda Garangau
-### Mobile Developer - Flutter | Dart <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Mobile Developer - Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **Flutter** and **Clean Architecture**
 - 👯 I’m looking to collaborate on any Flutter projects
