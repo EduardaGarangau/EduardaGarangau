@@ -8,18 +8,18 @@
 
 ### Languages
 
-[![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-[![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-[![CSharp](https://img.shields.io/badge/-csharp-000?&logo=csharp)
+(https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+(https://img.shields.io/badge/-Dart-000?&logo=Dart)
+(https://img.shields.io/badge/-csharp-000?&logo=csharp)
 
 ### Technologies
 
-[![](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-[![](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+(https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+(https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 ### Others
-[![](https://img.shields.io/badge/-git-000?&logo=git)
-[![](https://img.shields.io/badge/-json-000?&logo=json)
+(https://img.shields.io/badge/-git-000?&logo=git)
+(https://img.shields.io/badge/-json-000?&logo=json)
 
 ### Contact me any time 🤝
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-garangau-b69197177/)
