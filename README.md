@@ -24,3 +24,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardagarangau98@gmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardagarangau)
 [![image](https://img.shields.io/badge/WhatsApp-42f557?style=for-the-badge&logo=Whatsapp&logoColor=whitehite)](https://wa.me/5541996717016?text=Ol%C3%A1%20Eduarda!)
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
