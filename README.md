@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Eduarda Garangau
 ### Mobile Developer - Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌱 I’m a Mobile Developer
 - ⚡ Fun fact: I'm obsessed with the film E.T. The Extraterrestrial. 
 
 ### Languages
