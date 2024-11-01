@@ -1,10 +1,8 @@
 ## Hi there 👋 I'm Eduarda Garangau
 ### Mobile Developer - Flutter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌱 I’m currently learning **Flutter** and **Clean Architecture**
-- 👯 I’m looking to collaborate on any Flutter projects
-- 🎓 Analysis and Systems Development - University Positivo 
-- ⚡ Fun fact: I'm obsessed with the film E.T. The Extraterrestrial and my pets are everything to me!
+- 🌱 I’m a Mobile Developer
+- ⚡ Fun fact: I'm obsessed with the film E.T. The Extraterrestrial. 
 
 ### Languages
 [![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
